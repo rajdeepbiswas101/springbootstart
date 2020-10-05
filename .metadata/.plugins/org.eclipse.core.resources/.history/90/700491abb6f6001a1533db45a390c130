@@ -1,7 +1,0 @@
-package io.javabrains.springbootstarter.topic;
-
-public class Topic {
-	private String id;
-	private String name;
-	private String descriptions;
-}
